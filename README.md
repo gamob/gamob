@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**gamob/gamob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Minh, a Computer Science student majoring in Artificial Intelligence at Swinburne University of Technology Vietnam.
 
-Here are some ideas to get you started:
+💻 Currently exploring:
+- AI Engineering
+- RAG Systems
+- Prompt Engineering
+- Python Automation
+- System Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Things I enjoy building:
+- AI-assisted projects
+- Custom desktop tools
+- Hardware monitoring apps
+- Experimental workflows with LLMs
+- Random tech ideas at 2AM
+
+🌱 Currently learning:
+- Hybrid Retrieval-Augmented Generation (RAG)
+- AI development workflows
+- Better software engineering practices
+- How not to destroy my back from office chairs
+
+⚙️ Tech interests:
+- PCs & hardware
+- AI tools
+- Productivity systems
+- Gaming & simulation games
+- Workflow optimization
+
+📫 Reach me:
+- GitHub: @gamob
+
+> "Curiosity-driven learning hits different."

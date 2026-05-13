@@ -5,5 +5,4 @@ I'm Minh, a Computer Science student majoring in Artificial Intelligence at Swin
 📫 Reach me:
 - GitHub: @gamob
 - Email: dminh8092@gmail.com
-- 
-> fortniteballs
+- I don't use any social media
